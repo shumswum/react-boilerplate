@@ -1,0 +1,29 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "A react boilerplate for use making react projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Stevens",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "babel": "^6.3.26",
+    "babel-loader": "^7.1.1",
+    "babel-preset-airbnb": "^1.0.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "babel-register": "^6.4.3",
+    "es6": "0.0.7",
+    "express": "^4.15.3",
+    "morgan": "^1.8.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-on-screen": "^2.0.3",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scroll": "^1.7.7",
+    "webpack": "^3.6.0"
+  }
+}
