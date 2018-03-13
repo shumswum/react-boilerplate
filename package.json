@@ -4,7 +4,9 @@
   "description": "A react boilerplate for use making react projects.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -w",
+    "start": "node server"
   },
   "author": "Christopher Stevens",
   "license": "ISC",
